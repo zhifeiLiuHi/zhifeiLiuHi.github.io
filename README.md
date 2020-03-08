@@ -1,4 +1,3 @@
-
 ## 1.微信公众号
 
 
@@ -17,11 +16,9 @@
 
 ## 4.产品购买
 
-<center>## 刘志飞
 
 
 
 
-
-![](http://ys-d.ys168.com/613465350/n52447I4766M7Kmjkuyf/%E5%B7%A5%E4%B8%9A%E7%89%A9%E8%81%94%E7%BD%91abc%20%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%85%AC%E4%BC%97%E5%8F%B7.png)
+![微信公众号](http://ys-d.ys168.com/613465350/n52447I4766M7Kmjkuyf/%E5%B7%A5%E4%B8%9A%E7%89%A9%E8%81%94%E7%BD%91abc%20%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
