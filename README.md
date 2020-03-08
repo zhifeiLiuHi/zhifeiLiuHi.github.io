@@ -1,25 +1,10 @@
-# 工业物联网ABC资料汇总
 
-[toc]
-
-
-
-# <center>1.微信公众号
-
-```
-[Link](url)
-```
-
+## 1.微信公众号
 
 
 ![微信公众号](http://ys-e.ys168.com/613465327/jmltuel85345574H6PUK/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
-## <center>2.[技术视频](https://space.bilibili.com/510209895?from=search&seid=3850914611021614684)
-
-https://space.bilibili.com/510209895?from=search&seid=3850914611021614684
-
-[技术视频](https://space.bilibili.com/510209895?from=search&seid=3850914611021614684)
-
+## 2.[技术视频](https://space.bilibili.com/510209895?from=search&seid=3850914611021614684)
 
 
 ![技术视频下载](http://ys-k.ys168.com/613465347/knjqzhl85354L714XPK2/%E6%8A%80%E6%9C%AF%E8%A7%86%E9%A2%91.png)
